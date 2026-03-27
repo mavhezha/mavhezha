@@ -5,7 +5,7 @@
 Developer turned security practitioner building public proof of attacker mindset.
 Focused on web exploitation, enumeration, and practical offensive security.
 
-<br>
+---
 
 ### ▸ Currently
 
@@ -13,17 +13,7 @@ M.S. Cybersecurity     →  Yeshiva University
 Certification          →  OSCP (in progress, June 2026)
 Building               →  Hands-on pentest projects & writeups
 
-
-
-<br>
-
-### ▸ Featured
-
-| Project | Description |
-|---|---|
-| [OWASP Juice Shop Pentest](https://github.com/mavhezha/juice-shop-pentest) | Full black-box engagement · 9 vulns · 2 Critical findings · CVSS 9.8 |
-| OSCP Journey Labs | Active machines, privilege escalation notes, and custom exploit chains |
-| Offensive Security Automation | Python scripts for recon, enumeration, and payload generation |
+---
 
 ## What I Do
 
