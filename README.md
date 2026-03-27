@@ -88,8 +88,9 @@ REST/SOAP APIs · Node.js · Security hardening
 
 ## GitHub Stats
 
-![Arnold's GitHub stats](https://github-readme-stats.vercel.app/api?username=mavhezha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mavhezha&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mavhezha&theme=tokyonight&hide_border=true)](https://github.com/mavhezha)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mavhezha&theme=tokyo-night&hide_border=true&area=true)](https://github.com/mavhezha)
 
 ---
 
