@@ -1,9 +1,8 @@
 # Arnold Mavhezha
 
-**Security Engineer · Penetration Tester · Python Developer**
-New York, NY
+**Security Engineer · Offensive Security · Python Developer · New York, NY**
 
-I started as a full-stack developer, which gave me an unusual lens into security: I understand how systems are built, which shapes how I think about breaking them. Today I work across the offensive security spectrum — web application pentesting, cloud hardening, SIEM engineering, and malware analysis.
+I started as a full-stack developer, which gave me an unusual lens into security: I understand how systems are built, which shapes how I think about breaking them. Today I work across the offensive security spectrum, covering web application pentesting, cloud hardening, SIEM engineering, and malware analysis.
 
 Currently pursuing an M.S. in Cybersecurity at Yeshiva University while grinding toward the OSCP.
 
@@ -28,14 +27,15 @@ Currently pursuing an M.S. in Cybersecurity at Yeshiva University while grinding
 ![ISC2 CC](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-006E51?style=flat-square&logo=isc2&logoColor=white)
 ![ISO 27001](https://img.shields.io/badge/ISO_27001%3A2022-Lead_Auditor-0072C6?style=flat-square)
 ![ISO 42001](https://img.shields.io/badge/ISO_42001%3A2023-Lead_Auditor-0072C6?style=flat-square)
+![OSCP](https://img.shields.io/badge/OSCP-In_Progress_%7C_June_2026-FF6B35?style=flat-square)
 
 ---
 
 ## Featured Project
 
-### OWASP Juice Shop — Web Application Penetration Test
+### OWASP Juice Shop: Web Application Penetration Test
 
-Full black-box engagement against OWASP Juice Shop using the OWASP Testing Guide v4 methodology.
+Full black-box engagement using the OWASP Testing Guide v4 methodology.
 
 - **9 vulnerabilities** across 7 OWASP Top 10 (2021) categories
 - **2 Critical** findings: SQL injection auth bypass (CVSS 9.8) and BIP-39 seed phrase exposure in plaintext (CVSS 9.1)
@@ -48,27 +48,27 @@ Full black-box engagement against OWASP Juice Shop using the OWASP Testing Guide
 
 ## Hacking Platforms
 
-**TryHackMe** — Premium Member
+**TryHackMe** (Premium Member)
 Focus: Web Exploitation · Network Security · SOC Analyst · Linux PrivEsc
 [tryhackme.com/p/Anorld.Panashe](https://tryhackme.com/p/Anorld.Panashe)
 
-**HackTheBox** — Premium Member
+**HackTheBox** (Premium Member)
 Focus: Active Machines · Privilege Escalation · Sherlocks (DFIR) · CTF
 [profile.hackthebox.com](https://profile.hackthebox.com/profile/019c5533-932f-728d-952e-2c9030e34497)
 
-Latest machine rooted: **Cap** (Linux / Easy) — IDOR to PCAP exfil to SSH to cap_setuid PrivEsc
+Latest machine rooted: **Cap** (Linux / Easy). Attack chain: Web IDOR → PCAP download → FTP creds via Wireshark → SSH → cap_setuid PrivEsc.
 
 ---
 
 ## Experience Snapshot
 
-**Security Engineer** — Exceedingly Great Technologies (2022 – 2025)
+**Security Engineer**, Exceedingly Great Technologies (2022 – 2025)
 1,000+ endpoints secured · 50+ incidents neutralised · 45% CVE reduction · 100% audit pass rate
 
-**Junior Security Analyst** — Exceedingly Great Technologies (2021 – 2022)
+**Junior Security Analyst**, Exceedingly Great Technologies (2021 – 2022)
 1,200+ daily SIEM alerts triaged · 95% critical vulns remediated within SLA
 
-**Junior Full-Stack Developer** — Exceedingly Great Technologies (2020 – 2021)
+**Junior Full-Stack Developer**, Exceedingly Great Technologies (2020 – 2021)
 REST/SOAP APIs · Node.js · Security hardening
 
 ---
@@ -88,13 +88,14 @@ REST/SOAP APIs · Node.js · Security hardening
 
 ## GitHub Stats
 
-![Arnold's GitHub stats](https://github-readme-stats.vercel.app/api?username=mavhezha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mavhezha&layout=compact&theme=tokyonight&hide_border=true)
+![Arnold's GitHub stats](https://github-readme-stats.vercel.app/api?username=mavhezha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mavhezha&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
 
 ---
 
 ## Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mavhezha.com-64ffda?style=flat-square)](https://mavhezha.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mavhezha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mavhezha)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mavhezha.com-64ffda?style=flat-square&logo=googlechrome&logoColor=white)](https://mavhezha.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arnold--mavhezha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnold-mavhezha/)
+[![X](https://img.shields.io/badge/X-arnold__mavhezha-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/arnold_mavhezha)
 [![GitHub](https://img.shields.io/badge/GitHub-mavhezha-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mavhezha)
