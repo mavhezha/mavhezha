@@ -1,131 +1,100 @@
-<!-- ============================================================
-     Arnold Mavhezha — GitHub Profile README
-     Place this file in a repo named exactly: mavhezha
-     ============================================================ -->
+# Arnold Mavhezha
 
-<div align="center">
+**Security Engineer · Penetration Tester · Python Developer**
+New York, NY
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   ██████╗ ███████╗███████╗███████╗███╗   ██╗███████╗███████╗║
-║   ██╔══██╗██╔════╝██╔════╝██╔════╝████╗  ██║██╔════╝██╔════╝║
-║   ██║  ██║█████╗  █████╗  █████╗  ██╔██╗ ██║███████╗█████╗  ║
-║   ██║  ██║██╔══╝  ██╔══╝  ██╔══╝  ██║╚██╗██║╚════██║██╔══╝  ║
-║   ██████╔╝███████╗██║     ███████╗██║ ╚████║███████║███████╗ ║
-║   ╚═════╝ ╚══════╝╚═╝     ╚══════╝╚═╝  ╚═══╝╚══════╝╚══════╝ ║
-║                                                              ║
-║              [ OFFENSIVE SECURITY SPECIALIST ]               ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+I started as a full-stack developer, which gave me an unusual lens into security: I understand how systems are built, which shapes how I think about breaking them. Today I work across the offensive security spectrum — web application pentesting, cloud hardening, SIEM engineering, and malware analysis.
 
-</div>
+Currently pursuing an M.S. in Cybersecurity at Yeshiva University while grinding toward the OSCP.
 
 ---
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=mavhezha&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050c10&title_color=00d2a0&icon_color=00d2a0&text_color=8ab8c8&rank_icon=github" />
+## What I Do
 
-### `$ whoami`
-
-```yaml
-Name     : Arnold Mavhezha
-Role     : Penetration Tester & Red Teamer
-Location : New York, USA 🇺🇸
-Focus    : Breaking things ethically
-Website  : mavhezha.com
-Status   : Open to opportunities
-```
-
-### `$ cat /etc/expertise`
-
-```bash
-[*] Penetration Testing     ████████████░░  85%
-[*] Red Teaming             ███████████░░░  78%
-[*] Application Security    ████████████░░  82%
-[*] Malware Analysis        █████████░░░░░  65%
-[*] Endpoint Security       ██████████░░░░  72%
-[*] Security Operations     ████████░░░░░░  60%
-```
-
-<br clear="right"/>
+| Domain | Tools |
+|---|---|
+| Offensive Security | Burp Suite · Metasploit · Nmap · Nessus · OWASP Testing Guide |
+| Threat Detection & IR | Splunk · MITRE ATT&CK · Wireshark · Microsoft Defender |
+| Cloud Security | AWS IAM · AWS WAF · CloudTrail · Security Groups · CI/CD Hardening |
+| Malware Analysis | Reverse Engineering · Threat Intelligence · CVE Analysis |
+| Scripting & Automation | Python · Bash · PowerShell · SOAR Playbooks |
+| Governance & Compliance | ISO 27001 · ISO 42001 · NIST CSF · CIS Benchmarks |
 
 ---
 
-### `$ ls ./arsenal`
+## Certifications
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-050c10?style=for-the-badge&logo=python&logoColor=00d2a0)
-![Bash](https://img.shields.io/badge/Bash-050c10?style=for-the-badge&logo=gnu-bash&logoColor=00d2a0)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-050c10?style=for-the-badge&logo=burpsuite&logoColor=00d2a0)
-![Metasploit](https://img.shields.io/badge/Metasploit-050c10?style=for-the-badge&logo=metasploit&logoColor=00d2a0)
-![Nmap](https://img.shields.io/badge/Nmap-050c10?style=for-the-badge&logo=nmap&logoColor=00d2a0)
-![Wireshark](https://img.shields.io/badge/Wireshark-050c10?style=for-the-badge&logo=wireshark&logoColor=00d2a0)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-050c10?style=for-the-badge&logo=kalilinux&logoColor=00d2a0)
-![Docker](https://img.shields.io/badge/Docker-050c10?style=for-the-badge&logo=docker&logoColor=00d2a0)
-
-</div>
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=flat-square&logo=comptia&logoColor=white)
+![ISC2 CC](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-006E51?style=flat-square&logo=isc2&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO_27001%3A2022-Lead_Auditor-0072C6?style=flat-square)
+![ISO 42001](https://img.shields.io/badge/ISO_42001%3A2023-Lead_Auditor-0072C6?style=flat-square)
 
 ---
 
-### `$ cat ./training_grounds`
+## Featured Project
 
-<div align="center">
+### OWASP Juice Shop — Web Application Penetration Test
 
-| Platform | Status | Focus |
-|:---|:---:|:---|
-| 🟩 **Hack The Box** | Active | Machines · Pro Labs · CTF |
-| 🟩 **TryHackMe** | Active | Red Team · Beginner Paths |
-| 🟨 **PortSwigger Web Academy** | In Progress | Web App Exploitation |
-| 🟨 **TCM Security** | In Progress | Practical Ethical Hacking |
+Full black-box engagement against OWASP Juice Shop using the OWASP Testing Guide v4 methodology.
 
-</div>
+- **9 vulnerabilities** across 7 OWASP Top 10 (2021) categories
+- **2 Critical** findings: SQL injection auth bypass (CVSS 9.8) and BIP-39 seed phrase exposure in plaintext (CVSS 9.1)
+- 45 evidence screenshots, proof-of-concept scripts, professional remediation roadmap
+- Tools: Burp Suite · Kali Linux · Python · Bash · Docker · CVSS 3.1
 
----
-
-### `$ tail -f ./activity.log`
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mavhezha&theme=chartreuse-dark&hide_border=true&background=050c10&ring=00d2a0&fire=00d2a0&currStreakLabel=00d2a0&sideLabels=8ab8c8&dates=8ab8c8&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
-
-</div>
+**[View Report on GitHub](https://github.com/mavhezha/juice-shop-pentest)**
 
 ---
 
-### `$ cat ./pinned_ops`
+## Hacking Platforms
 
-> 🔴 **CTF Writeups** — Documented solutions from HTB, THM & competitive CTFs
->
-> 🔴 **Recon Toolkit** — Custom automation scripts for OSINT & enumeration
->
-> 🔴 **Web Vuln Lab** — Hands-on vulnerable app setups for practice
->
-> 🔴 **Red Team Notes** — Tactical playbooks & methodology docs
+**TryHackMe** — Premium Member
+Focus: Web Exploitation · Network Security · SOC Analyst · Linux PrivEsc
+[tryhackme.com/p/Anorld.Panashe](https://tryhackme.com/p/Anorld.Panashe)
 
-*Check my pinned repos below ↓*
+**HackTheBox** — Premium Member
+Focus: Active Machines · Privilege Escalation · Sherlocks (DFIR) · CTF
+[profile.hackthebox.com](https://profile.hackthebox.com/profile/019c5533-932f-728d-952e-2c9030e34497)
 
----
-
-### `$ connect --secure`
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/mavhezha.com-050c10?style=for-the-badge&logo=googlechrome&logoColor=00d2a0)](https://mavhezha.com)
-[![Twitter](https://img.shields.io/badge/@arnold_mavhezha-050c10?style=for-the-badge&logo=x&logoColor=00d2a0)](https://x.com/arnold_mavhezha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-050c10?style=for-the-badge&logo=linkedin&logoColor=00d2a0)](https://linkedin.com/in/arnold-mavhezha)
-
-</div>
+Latest machine rooted: **Cap** (Linux / Easy) — IDOR to PCAP exfil to SSH to cap_setuid PrivEsc
 
 ---
 
-<div align="center">
+## Experience Snapshot
 
-```
-[ authorized access only · breaking things · ethically ]
-```
+**Security Engineer** — Exceedingly Great Technologies (2022 – 2025)
+1,000+ endpoints secured · 50+ incidents neutralised · 45% CVE reduction · 100% audit pass rate
 
-![Profile Views](https://komarev.com/ghpvc/?username=mavhezha&color=00d2a0&style=flat-square&label=profile+views)
+**Junior Security Analyst** — Exceedingly Great Technologies (2021 – 2022)
+1,200+ daily SIEM alerts triaged · 95% critical vulns remediated within SLA
 
-</div>
+**Junior Full-Stack Developer** — Exceedingly Great Technologies (2020 – 2021)
+REST/SOAP APIs · Node.js · Security hardening
+
+---
+
+## Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+---
+
+## GitHub Stats
+
+![Arnold's GitHub stats](https://github-readme-stats.vercel.app/api?username=mavhezha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mavhezha&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-mavhezha.com-64ffda?style=flat-square)](https://mavhezha.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mavhezha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mavhezha)
+[![GitHub](https://img.shields.io/badge/GitHub-mavhezha-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mavhezha)
