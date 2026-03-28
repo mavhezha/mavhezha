@@ -5,8 +5,6 @@
 Developer turned security practitioner building public proof of attacker mindset.
 Focused on web exploitation, enumeration, and practical offensive security.
 
----
-
 <br>
 
 ### ▸ Currently
@@ -14,8 +12,6 @@ Focused on web exploitation, enumeration, and practical offensive security.
 - M.S. Cybersecurity     →  Yeshiva University
 - Certification          →  OSCP (in progress, June 2026)
 - Building               →  Hands-on pentest projects & writeups
-
-<br>
 
 ---
 
