@@ -11,9 +11,9 @@ Focused on web exploitation, enumeration, and practical offensive security.
 
 ### ▸ Currently
 
-M.S. Cybersecurity     →  Yeshiva University
-Certification          →  OSCP (in progress, June 2026)
-Building               →  Hands-on pentest projects & writeups
+- M.S. Cybersecurity     →  Yeshiva University
+- Certification          →  OSCP (in progress, June 2026)
+- Building               →  Hands-on pentest projects & writeups
 
 <br>
 
