@@ -5,8 +5,6 @@
 Developer turned security practitioner building public proof of attacker mindset.
 Focused on web exploitation, enumeration, and practical offensive security.
 
-<br>
-
 ### ▸ Currently
 
 - M.S. Cybersecurity     →  Yeshiva University
