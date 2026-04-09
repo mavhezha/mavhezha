@@ -1,107 +1,139 @@
-# Arnold Mavhezha
+<div align="center">
 
-**Offensive Security · Web App Pentesting · Python Automation**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Arnold+Mavhezha;Offensive+Security+Engineer;HTB+%7C+OSCP+Candidate+%7C+Blog" alt="Typing animation" />
 
-Developer turned security practitioner building public proof of attacker mindset.
-Focused on web exploitation, enumeration, and practical offensive security.
+<br/>
 
-### ▸ Currently
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnold-mavhezha/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arnold_mavhezha)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anorld_mavhezha/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@arnold_mavhezha)
+[![Portfolio](https://img.shields.io/badge/mavhezha.com-64FFDA?style=for-the-badge&logo=firefox&logoColor=black)](https://mavhezha.com)
 
-- M.S. Cybersecurity     →  Yeshiva University
-- Certification          →  OSCP (in progress, June 2026)
-- Building               →  Hands-on pentest projects & writeups
+</div>
 
 ---
 
-## What I Do
+## About
 
-| Domain | Tools |
-|---|---|
-| Offensive Security | Burp Suite · Metasploit · Nmap · Nessus · OWASP Testing Guide |
-| Threat Detection & IR | Splunk · MITRE ATT&CK · Wireshark · Microsoft Defender |
-| Cloud Security | AWS IAM · AWS WAF · CloudTrail · Security Groups · CI/CD Hardening |
-| Malware Analysis | Reverse Engineering · Threat Intelligence · CVE Analysis |
-| Scripting & Automation | Python · Bash · PowerShell · SOAR Playbooks |
-| Governance & Compliance | ISO 27001 · ISO 42001 · NIST CSF · CIS Benchmarks |
+Offensive security engineer and M.S. Cybersecurity student at Yeshiva University. Background in full-stack development, security engineering, and incident response across enterprise environments. Currently focused on Active Directory attacks, web application exploitation, and DFIR.
+
+**OSCP candidate — targeting June 2026.**
+
+---
+
+## Current Focus
+
+- Rooting HackTheBox machines with documented write-ups
+- Building hands-on DFIR skills through self-authored challenge series
+- Active Directory attack chains: AS-REP Roasting, BloodHound, DCSync, Pass the Hash
+- Automating incident triage with Bash and Python
+
+---
+
+## HackTheBox
+
+| Machine | OS | Difficulty | Key Techniques | Write-up |
+|---|---|---|---|---|
+| **Sauna** | Windows (DC) | Easy | Web OSINT, AS-REP Roasting, WinPEAS AutoLogon, DCSync | [Read](https://mavhezha.com/blog/htb-sauna-writeup) |
+| **Forest** | Windows (DC) | Easy | RPC null session, AS-REP Roasting, BloodHound, WriteDACL, DCSync | [Read](https://mavhezha.com/blog/htb-forest-writeup) |
+| **Cap** | Linux | Easy | IDOR, FTP plaintext creds, cap_setuid privilege escalation | [Read](https://mavhezha.com/blog/htb-cap-writeup) |
+
+---
+
+## Blog
+
+Technical write-ups at **[mavhezha.com/blog](https://mavhezha.com/blog)**
+
+**DFIR Challenge Series** — Self-authored, 6 challenges, 29/30 flags captured:
+
+| # | Challenge | Evidence Type |
+|---|---|---|
+| 01 | Log Parsing | Syslog, auth.log, Apache access logs |
+| 02 | Memory Forensics | Volatility, Cobalt Strike beacon, credential extraction |
+| 03 | Network Forensics | PCAP, DNS exfiltration, Wireshark |
+| 04 | Disk Forensics | Ext4, deleted file recovery, artifact analysis |
+| 05 | Malware Triage | PE analysis, VBA macros, YARA-style detection |
+| 06 | Incident Timeline | Full breach reconstruction, MITRE ATT&CK mapping |
+
+---
+
+## Featured Projects
+
+- **[linux-breach-investigation](https://github.com/mavhezha/linux-breach-investigation)** — Simulated Linux breach environment for the DFIR challenge series
+- **[dfir-triage-tool](https://github.com/mavhezha/dfir-triage-tool)** — Automated Bash + Python triage tool for Linux incident response
+- **OWASP Juice Shop Pentest** — Black-box assessment identifying 9 vulnerabilities including SQL injection auth bypass and cryptographic seed exposure
 
 ---
 
 ## Certifications
 
-![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=flat-square&logo=comptia&logoColor=white)
-![ISC2 CC](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-006E51?style=flat-square&logo=isc2&logoColor=white)
-![ISO 27001](https://img.shields.io/badge/ISO_27001%3A2022-Lead_Auditor-0072C6?style=flat-square)
-![ISO 42001](https://img.shields.io/badge/ISO_42001%3A2023-Lead_Auditor-0072C6?style=flat-square)
-![OSCP](https://img.shields.io/badge/OSCP-In_Progress_%7C_June_2026-FF6B35?style=flat-square)
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=flat-square&logo=comptia&logoColor=white)
+![ISC2 CC](https://img.shields.io/badge/ISC2-CC-006400?style=flat-square&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO-27001%20Lead%20Auditor-0072C6?style=flat-square&logoColor=white)
+![ISO 42001](https://img.shields.io/badge/ISO-42001%20Lead%20Auditor-0072C6?style=flat-square&logoColor=white)
+![OSCP](https://img.shields.io/badge/OSCP-In%20Progress-64FFDA?style=flat-square&logoColor=black)
 
 ---
 
-## Featured Project
+## Tools & Tech
 
-### OWASP Juice Shop: Web Application Penetration Test
+**Offensive**
 
-Full black-box engagement using the OWASP Testing Guide v4 methodology.
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4B8BBE?style=flat-square&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
+![evil-winrm](https://img.shields.io/badge/evil--winrm-cc0000?style=flat-square&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-black?style=flat-square&logoColor=white)
+![BloodHound](https://img.shields.io/badge/BloodHound-CC0000?style=flat-square&logoColor=white)
+![Impacket](https://img.shields.io/badge/Impacket-4B8BBE?style=flat-square&logoColor=white)
 
-- **9 vulnerabilities** across 7 OWASP Top 10 (2021) categories
-- **2 Critical** findings: SQL injection auth bypass (CVSS 9.8) and BIP-39 seed phrase exposure in plaintext (CVSS 9.1)
-- 45 evidence screenshots, proof-of-concept scripts, professional remediation roadmap
-- Tools: Burp Suite · Kali Linux · Python · Bash · Docker · CVSS 3.1
+**Forensics & Detection**
 
-**[View Report on GitHub](https://github.com/mavhezha/juice-shop-pentest)**
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-555555?style=flat-square&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![WinPEAS](https://img.shields.io/badge/WinPEAS-red?style=flat-square&logoColor=white)
 
----
-
-## Hacking Platforms
-
-**TryHackMe** (Premium Member)
-Focus: Web Exploitation · Network Security · SOC Analyst · Linux PrivEsc
-[tryhackme.com/p/Anorld.Panashe](https://tryhackme.com/p/Anorld.Panashe)
-
-**HackTheBox** (Premium Member)
-Focus: Active Machines · Privilege Escalation · Sherlocks (DFIR) · CTF
-[profile.hackthebox.com](https://profile.hackthebox.com/profile/019c5533-932f-728d-952e-2c9030e34497)
-
-Latest machine rooted: **Cap** (Linux / Easy). Attack chain: Web IDOR → PCAP download → FTP creds via Wireshark → SSH → cap_setuid PrivEsc.
-
----
-
-## Experience Snapshot
-
-**Security Engineer**, Exceedingly Great Technologies (2022 – 2025)
-1,000+ endpoints secured · 50+ incidents neutralised · 45% CVE reduction · 100% audit pass rate
-
-**Junior Security Analyst**, Exceedingly Great Technologies (2021 – 2022)
-1,200+ daily SIEM alerts triaged · 95% critical vulns remediated within SLA
-
-**Junior Full-Stack Developer**, Exceedingly Great Technologies (2020 – 2021)
-REST/SOAP APIs · Node.js · Security hardening
-
----
-
-## Stack
+**Languages & Scripting**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+
+**Cloud & Governance**
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-0072C6?style=flat-square&logoColor=white)
+![NIST](https://img.shields.io/badge/NIST_CSF-003087?style=flat-square&logoColor=white)
 
 ---
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mavhezha&theme=tokyonight&hide_border=true)](https://github.com/mavhezha)
+<div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mavhezha&theme=tokyo-night&hide_border=true&area=true)](https://github.com/mavhezha)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=mavhezha&show_icons=true&count_private=true&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6&icon_color=64ffda" alt="Arnold's GitHub stats" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavhezha&layout=compact&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6" alt="Top languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mavhezha&hide_border=true&background=0a192f&stroke=233554&ring=64ffda&fire=64ffda&currStreakNum=ccd6f6&sideNums=ccd6f6&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0" alt="GitHub streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mavhezha&bg_color=0a192f&color=64ffda&line=64ffda&point=ccd6f6&area=true&area_color=64ffda&hide_border=true" alt="Contribution graph" />
+
+</div>
 
 ---
 
-## Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-mavhezha.com-64ffda?style=flat-square&logo=googlechrome&logoColor=white)](https://mavhezha.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-arnold--mavhezha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnold-mavhezha/)
-[![X](https://img.shields.io/badge/X-arnold__mavhezha-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/arnold_mavhezha)
-[![GitHub](https://img.shields.io/badge/GitHub-mavhezha-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mavhezha)
+<div align="center">
+<sub>mavhezha.com &nbsp;|&nbsp; Reconstructing Real Attacks.</sub>
+</div>
