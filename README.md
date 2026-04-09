@@ -18,8 +18,6 @@
 
 Offensive security engineer based in New York. Background in full-stack development, security engineering, and incident response across enterprise environments. Currently focused on Active Directory attacks, web application exploitation, and DFIR.
 
-**OSCP candidate — targeting June 2026.**
-
 ---
 
 ## Current Focus
