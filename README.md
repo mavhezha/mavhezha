@@ -114,14 +114,6 @@ Technical write-ups at **[mavhezha.com/blog](https://mavhezha.com/blog)**
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mavhezha&show_icons=true&count_private=true&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6&icon_color=64ffda" alt="Arnold's GitHub stats" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavhezha&layout=compact&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6" alt="Top languages" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=mavhezha&hide_border=true&background=0a192f&stroke=233554&ring=64ffda&fire=64ffda&currStreakNum=ccd6f6&sideNums=ccd6f6&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0" alt="GitHub streak" />
 
 </div>
