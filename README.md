@@ -4,7 +4,7 @@
 <div align="center">
   <img src="banner.svg" alt="Arnold Mavhezha — Offensive Security Engineer" />
 </div>
-<tab></tab>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnold-mavhezha/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arnold_mavhezha)
