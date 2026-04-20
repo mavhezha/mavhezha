@@ -71,15 +71,6 @@ Technical write-ups at **[mavhezha.com/blog](https://mavhezha.com/blog)**
 
 ---
 
-## Featured Projects
-
-- **[oscp-journey](https://github.com/mavhezha/oscp-journey)** — Documented OSCP preparation: HTB writeups, methodology, cheatsheets, and notes from 12 HTB Academy modules
-- **[linux-breach-investigation](https://github.com/mavhezha/linux-breach-investigation)** — Simulated Linux breach environment for the DFIR challenge series
-- **[dfir-triage-tool](https://github.com/mavhezha/dfir-triage-tool)** — Automated Bash + Python triage tool for Linux incident response
-- **[juice-shop-pentest](https://github.com/mavhezha/juice-shop-pentest)** — Black-box assessment of OWASP Juice Shop identifying 9 vulnerabilities including SQLi auth bypass and cryptographic seed exposure
-
----
-
 ## Certifications
 
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=flat-square&logo=comptia&logoColor=white)
