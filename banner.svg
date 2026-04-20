@@ -1,0 +1,63 @@
+<svg width="100%" viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Arnold Mavhezha — Offensive Security Engineer</title>
+  <desc>Profile banner showing terminal icon with name and title</desc>
+
+  <style>
+    .name { font-family: 'JetBrains Mono', 'Courier New', monospace; font-size: 36px; font-weight: 700; fill: #ccd6f6; letter-spacing: -0.5px; }
+    .title { font-family: 'JetBrains Mono', 'Courier New', monospace; font-size: 15px; font-weight: 400; fill: #64FFDA; letter-spacing: 2px; }
+    .prompt { font-family: 'JetBrains Mono', 'Courier New', monospace; font-size: 13px; fill: #8892b0; }
+    .cursor { fill: #64FFDA; opacity: 0.8; }
+    .dot { fill: #233554; }
+    .line-dot { stroke: #233554; stroke-width: 0.5; fill: none; }
+  </style>
+
+  <rect width="800" height="180" fill="#0a192f" rx="12"/>
+
+  <circle cx="60" cy="40" r="80" fill="#112240" opacity="0.5"/>
+  <circle cx="740" cy="140" r="100" fill="#112240" opacity="0.4"/>
+
+  <circle cx="30" cy="30" r="1.5" class="dot"/>
+  <circle cx="80" cy="20" r="1.5" class="dot"/>
+  <circle cx="130" cy="45" r="1.5" class="dot"/>
+  <circle cx="200" cy="15" r="1.5" class="dot"/>
+  <circle cx="260" cy="35" r="1.5" class="dot"/>
+  <circle cx="320" cy="10" r="1.5" class="dot"/>
+  <circle cx="400" cy="25" r="1.5" class="dot"/>
+  <circle cx="460" cy="8" r="1.5" class="dot"/>
+  <circle cx="520" cy="30" r="1.5" class="dot"/>
+  <circle cx="600" cy="12" r="1.5" class="dot"/>
+  <circle cx="680" cy="28" r="1.5" class="dot"/>
+  <circle cx="750" cy="18" r="1.5" class="dot"/>
+  <circle cx="790" cy="40" r="1.5" class="dot"/>
+  <circle cx="50" cy="160" r="1.5" class="dot"/>
+  <circle cx="110" cy="155" r="1.5" class="dot"/>
+  <circle cx="170" cy="170" r="1.5" class="dot"/>
+  <circle cx="240" cy="162" r="1.5" class="dot"/>
+  <circle cx="700" cy="165" r="1.5" class="dot"/>
+  <circle cx="760" cy="155" r="1.5" class="dot"/>
+
+  <line x1="30" y1="30" x2="80" y2="20" class="line-dot"/>
+  <line x1="80" y1="20" x2="130" y2="45" class="line-dot"/>
+  <line x1="130" y1="45" x2="200" y2="15" class="line-dot"/>
+  <line x1="200" y1="15" x2="260" y2="35" class="line-dot"/>
+  <line x1="400" y1="25" x2="460" y2="8" class="line-dot"/>
+  <line x1="460" y1="8" x2="520" y2="30" class="line-dot"/>
+  <line x1="600" y1="12" x2="680" y2="28" class="line-dot"/>
+  <line x1="680" y1="28" x2="750" y2="18" class="line-dot"/>
+
+  <rect x="48" y="52" width="84" height="76" rx="14" fill="#112240" stroke="#233554" stroke-width="1.5"/>
+  <rect x="56" y="60" width="8" height="8" rx="4" fill="#FF6B6B" opacity="0.9"/>
+  <rect x="68" y="60" width="8" height="8" rx="4" fill="#FFD93D" opacity="0.9"/>
+  <rect x="80" y="60" width="8" height="8" rx="4" fill="#64FFDA" opacity="0.9"/>
+  <rect x="56" y="74" width="68" height="1" fill="#233554"/>
+  <text x="62" y="96" font-family="'JetBrains Mono', monospace" font-size="18" font-weight="700" fill="#64FFDA">$</text>
+  <text x="76" y="96" font-family="'JetBrains Mono', monospace" font-size="18" font-weight="700" fill="#8892b0">_</text>
+  <text x="62" y="116" font-family="'JetBrains Mono', monospace" font-size="10" fill="#8892b0">whoami</text>
+
+  <text x="166" y="76" class="prompt">// hey! i'm</text>
+  <text x="166" y="118" class="name">Arnold Mavhezha</text>
+  <text x="168" y="147" class="title">OFFENSIVE SECURITY ENGINEER</text>
+
+  <rect x="166" y="154" width="40" height="2" rx="1" fill="#64FFDA" opacity="0.6"/>
+  <rect x="210" y="154" width="20" height="2" rx="1" fill="#8892b0" opacity="0.3"/>
+</svg>
