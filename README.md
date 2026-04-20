@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Arnold+Mavhezha;Offensive+Security+Engineer;HTB+%7C+OSCP+Candidate+%7C+Blog" alt="Typing animation" />
-
-<br/>
+```
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║            ARNOLD MAVHEZHA                           ║
+║            Offensive Security Engineer               ║
+║            New York                                  ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnold-mavhezha/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arnold_mavhezha)
@@ -16,26 +22,39 @@
 
 ## About
 
-Offensive security engineer based in New York. Background in full-stack development, security engineering, and incident response across enterprise environments. Currently focused on Active Directory attacks, web application exploitation, and DFIR.
+Offensive security engineer based in New York. Background in full-stack development, security engineering, and incident response across enterprise environments. Currently grinding Active Directory attack chains, Linux privilege escalation, and web application exploitation in preparation for OSCP.
 
 ---
 
 ## Current Focus
 
-- Rooting HackTheBox machines with documented write-ups
-- Building hands-on DFIR skills through self-authored challenge series
-- Active Directory attack chains: AS-REP Roasting, BloodHound, DCSync, Pass the Hash
+- Active Directory attack chains: AS-REP Roasting, BloodHound, DCSync, RBCD, LAPS, SeBackupPrivilege
+- Linux privilege escalation: SUID, capabilities, cron hijacking, restricted shell escapes
+- Web application exploitation: SQLi, LFI, file upload bypass, command injection
 - Automating incident triage with Bash and Python
 
 ---
 
 ## HackTheBox
 
-| Machine | OS | Difficulty | Key Techniques | Write-up |
-|---|---|---|---|---|
-| **Sauna** | Windows (DC) | Easy | Web OSINT, AS-REP Roasting, WinPEAS AutoLogon, DCSync | [Read](https://mavhezha.com/blog/htb-sauna-writeup) |
-| **Forest** | Windows (DC) | Easy | RPC null session, AS-REP Roasting, BloodHound, WriteDACL, DCSync | [Read](https://mavhezha.com/blog/htb-forest-writeup) |
-| **Cap** | Linux | Easy | IDOR, FTP plaintext creds, cap_setuid privilege escalation | [Read](https://mavhezha.com/blog/htb-cap-writeup) |
+### Windows — Active Directory
+
+| Machine | Difficulty | Key Techniques | Write-up |
+|---|---|---|---|
+| **Forest** | Easy | RPC null session, AS-REP Roasting, BloodHound, WriteDACL, DCSync | [Read](https://mavhezha.com/blog/htb-forest-writeup) |
+| **Sauna** | Easy | Web OSINT, AS-REP Roasting, AutoLogon, DCSync, Pass-the-Hash | [Read](https://mavhezha.com/blog/htb-sauna-writeup) |
+| **Active** | Easy | GPP credentials, Kerberoasting, psexec | [Read](https://github.com/mavhezha/oscp-journey/tree/master/htb-writeups/Active) |
+| **Support** | Easy | LDAP enum, .NET reverse engineering, GenericAll, RBCD | [Read](https://github.com/mavhezha/oscp-journey/tree/master/htb-writeups/Support) |
+| **Timelapse** | Easy | SMB enum, PFX cert auth, PowerShell history, LAPS | [Read](https://github.com/mavhezha/oscp-journey/tree/master/htb-writeups/Timelapse) |
+| **Return** | Easy | Printer credential capture, Server Operators, service binary hijack | [Read](https://github.com/mavhezha/oscp-journey/tree/master/htb-writeups/Return) |
+| **Heist** | Easy | Cisco password cracking, RID brute force, Firefox memory dump | [Read](https://github.com/mavhezha/oscp-journey/tree/master/htb-writeups/Heist) |
+| **Cicada** | Easy | SMB enum, RID cycling, credential reuse, SeBackupPrivilege | [Read](https://github.com/mavhezha/oscp-journey/tree/master/htb-writeups/Cicada) |
+
+### Linux
+
+| Machine | Difficulty | Key Techniques | Write-up |
+|---|---|---|---|
+| **Cap** | Easy | IDOR, PCAP analysis, cap_setuid privilege escalation | [Read](https://mavhezha.com/blog/htb-cap-writeup) |
 
 ---
 
@@ -58,9 +77,10 @@ Technical write-ups at **[mavhezha.com/blog](https://mavhezha.com/blog)**
 
 ## Featured Projects
 
+- **[oscp-journey](https://github.com/mavhezha/oscp-journey)** — Documented OSCP preparation: HTB writeups, methodology, cheatsheets, and notes from 12 HTB Academy modules
 - **[linux-breach-investigation](https://github.com/mavhezha/linux-breach-investigation)** — Simulated Linux breach environment for the DFIR challenge series
 - **[dfir-triage-tool](https://github.com/mavhezha/dfir-triage-tool)** — Automated Bash + Python triage tool for Linux incident response
-- **OWASP Juice Shop Pentest** — Black-box assessment identifying 9 vulnerabilities including SQL injection auth bypass and cryptographic seed exposure
+- **[juice-shop-pentest](https://github.com/mavhezha/juice-shop-pentest)** — Black-box assessment of OWASP Juice Shop identifying 9 vulnerabilities including SQLi auth bypass and cryptographic seed exposure
 
 ---
 
@@ -74,7 +94,7 @@ Technical write-ups at **[mavhezha.com/blog](https://mavhezha.com/blog)**
 
 ---
 
-## Tools & Tech
+## Tools
 
 **Offensive**
 
@@ -86,6 +106,7 @@ Technical write-ups at **[mavhezha.com/blog](https://mavhezha.com/blog)**
 ![Hashcat](https://img.shields.io/badge/Hashcat-black?style=flat-square&logoColor=white)
 ![BloodHound](https://img.shields.io/badge/BloodHound-CC0000?style=flat-square&logoColor=white)
 ![Impacket](https://img.shields.io/badge/Impacket-4B8BBE?style=flat-square&logoColor=white)
+![netexec](https://img.shields.io/badge/netexec-333333?style=flat-square&logoColor=white)
 
 **Forensics & Detection**
 
