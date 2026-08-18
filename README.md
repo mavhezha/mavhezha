@@ -1,3 +1,5 @@
+# Arnold Mavhezha — Offensive Security Engineer
+
 <div align="center">
 
 
@@ -27,13 +29,14 @@ Offensive security engineer based in New York. Background in full-stack developm
 - Active Directory attack chains: AS-REP Roasting, BloodHound, DCSync, RBCD, LAPS, SeBackupPrivilege
 - Linux privilege escalation: SUID, capabilities, cron hijacking, restricted shell escapes
 - Web application exploitation: SQLi, LFI, file upload bypass, command injection
+- AI red teaming: prompt injection, adversarial evasion (FGSM, DeepFool), LLM output attacks
 - Automating incident triage with Bash and Python
 
 ---
 
 ## HackTheBox
 
-### Windows — Active Directory
+### Windows
 
 | Machine | Difficulty | Key Techniques | Write-up |
 |---|---|---|---|
@@ -45,12 +48,17 @@ Offensive security engineer based in New York. Background in full-stack developm
 | **Return** | Easy | Printer credential capture, Server Operators, service binary hijack | [Read](https://github.com/mavhezha/oscp-journey/tree/master/htb-writeups/Return) |
 | **Heist** | Easy | Cisco password cracking, RID brute force, Firefox memory dump | [Read](https://github.com/mavhezha/oscp-journey/tree/master/htb-writeups/Heist) |
 | **Cicada** | Easy | SMB enum, RID cycling, credential reuse, SeBackupPrivilege | [Read](https://github.com/mavhezha/oscp-journey/tree/master/htb-writeups/Cicada) |
+| **Access** | Easy | ACCDB credential extraction, saved RDP creds, runas SavedCreds | [Read](https://mavhezha.com/blog/htb-access-writeup) |
 
 ### Linux
 
 | Machine | Difficulty | Key Techniques | Write-up |
 |---|---|---|---|
 | **Cap** | Easy | IDOR, PCAP analysis, cap_setuid privilege escalation | [Read](https://mavhezha.com/blog/htb-cap-writeup) |
+| **Nibbles** | Easy | Default creds, PHP file upload, sudo misconfiguration | [Read](https://mavhezha.com/blog/htb-nibbles-writeup) |
+| **Bashed** | Easy | PHP webshell, cron job privilege escalation | [Read](https://mavhezha.com/blog/htb-bashed-writeup) |
+| **Shocker** | Easy | Shellshock CGI exploit, sudo perl escalation | [Read](https://mavhezha.com/blog/htb-shocker-writeup) |
+| **Lame** | Easy | Samba usermap script RCE, distcc exploit | [Read](https://mavhezha.com/blog/htb-lame-writeup) |
 
 ---
 
@@ -68,6 +76,8 @@ Technical write-ups at **[mavhezha.com/blog](https://mavhezha.com/blog)**
 | 04 | Disk Forensics | Ext4, deleted file recovery, artifact analysis |
 | 05 | Malware Triage | PE analysis, VBA macros, YARA-style detection |
 | 06 | Incident Timeline | Full breach reconstruction, MITRE ATT&CK mapping |
+
+Also working through HTB Academy's AI Red Teamer path — prompt injection, data poisoning, and adversarial evasion against LLMs and ML models.
 
 ---
 
