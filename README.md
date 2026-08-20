@@ -16,7 +16,7 @@
 
 ## About
 
-Offensive security engineer based in New York. 12 years of software development experience, 8 of them in full-stack MERN development, and 4 years of enterprise security operations, spanning API endpoint security, cloud security, and incident response. Currently grinding Active Directory attack chains, Linux privilege escalation, and web application exploitation in preparation for OSCP.
+Offensive security engineer based in New York. 12 years of software development experience, 8 of them in full-stack MERN development, and 4 years of enterprise security operations, spanning API endpoint security, cloud security, and incident response.
 
 I build things as much as I break them. See Breach The LLM below.
 
