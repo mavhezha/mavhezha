@@ -1,16 +1,12 @@
 # Arnold Mavhezha — Offensive Security Engineer
 
 <div align="center">
-
-
-<div align="center">
   <img src="banner.svg" alt="Arnold Mavhezha — Offensive Security Engineer" />
 </div>
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnold-mavhezha/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arnold_mavhezha)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anorld_mavhezha/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@arnold_mavhezha)
 [![Portfolio](https://img.shields.io/badge/mavhezha.com-64FFDA?style=for-the-badge&logo=firefox&logoColor=black)](https://mavhezha.com)
 
@@ -20,17 +16,24 @@
 
 ## About
 
-Offensive security engineer based in New York. Background in full-stack development, security engineering, and incident response across enterprise environments. Currently grinding Active Directory attack chains, Linux privilege escalation, and web application exploitation in preparation for OSCP.
+Offensive security engineer based in New York. 12 years of software development experience, 8 of them in full-stack MERN development, and 4 years of enterprise security operations, spanning API endpoint security, cloud security, and incident response. Currently grinding Active Directory attack chains, Linux privilege escalation, and web application exploitation in preparation for OSCP.
+
+I build things as much as I break them. See Breach The LLM below.
 
 ---
 
-## Current Focus
+## Featured Project: Breach The LLM
 
-- Active Directory attack chains: AS-REP Roasting, BloodHound, DCSync, RBCD, LAPS, SeBackupPrivilege
-- Linux privilege escalation: SUID, capabilities, cron hijacking, restricted shell escapes
-- Web application exploitation: SQLi, LFI, file upload bypass, command injection
-- AI red teaming: prompt injection, adversarial evasion (FGSM, DeepFool), LLM output attacks
-- Automating incident triage with Bash and Python
+**An open source, self-hosted AI red-teaming range.** Attack a fictional bank's fraud-review AI assistant across 7 progressively harder levels, each one a real, calibrated prompt injection technique, not a scripted demo.
+
+[![Website](https://img.shields.io/badge/Website-breachthellm.com-64FFDA?style=for-the-badge)](https://breachthellm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/breachthellm/breachthellm)
+
+- **7 levels, 7 distinct techniques**: direct injection, instruction override, indirect injection (two data sources), tool-use injection, and a hardened capstone that chains everything together
+- Every level is mapped to the **OWASP LLM Top 10** and **MITRE ATLAS**, and calibrated live against a real running model (Llama 3.1 8B via Ollama), not assumed to work
+- **Context Trace**: a differentiator most red-teaming tools don't have, a real-time view into exactly what the model read and trusted, system prompt, injected content, and user input, side by side
+- Fully self-hosted: Docker Compose, local model inference, no data leaves your machine unless you opt into API mode
+- MIT licensed, open source, free
 
 ---
 
@@ -81,10 +84,20 @@ Also working through HTB Academy's AI Red Teamer path — prompt injection, data
 
 ---
 
+## Speaking & Leadership
+
+- **VP, ISACA Yeshiva University chapter**
+- **Speaker, DigiSkills 2.0 Bootcamp** (July 2026)
+- **Public Relations Director, JCI Capital Zimbabwe**
+
+---
+
 ## Certifications
 
+![CISSP](https://img.shields.io/badge/ISC2-CISSP-006400?style=flat-square&logoColor=white)
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=flat-square&logo=comptia&logoColor=white)
 ![ISC2 CC](https://img.shields.io/badge/ISC2-CC-006400?style=flat-square&logoColor=white)
+![CCSK](https://img.shields.io/badge/CSA-CCSK-4B0082?style=flat-square&logoColor=white)
 ![ISO 27001](https://img.shields.io/badge/ISO-27001%20Lead%20Auditor-0072C6?style=flat-square&logoColor=white)
 ![ISO 42001](https://img.shields.io/badge/ISO-42001%20Lead%20Auditor-0072C6?style=flat-square&logoColor=white)
 ![OSCP](https://img.shields.io/badge/OSCP-In%20Progress-64FFDA?style=flat-square&logoColor=black)
@@ -143,5 +156,5 @@ Also working through HTB Academy's AI Red Teamer path — prompt injection, data
 ---
 
 <div align="center">
-<sub>mavhezha.com &nbsp;|&nbsp; Reconstructing Real Attacks.</sub>
+<sub>mavhezha.com &nbsp;|&nbsp; Reconstructing Real Attacks. Building New Ones.</sub>
 </div>
