@@ -145,14 +145,6 @@ Also working through HTB Academy's AI Red Teamer path — prompt injection, data
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=mavhezha&hide_border=true&background=0a192f&stroke=233554&ring=64ffda&fire=64ffda&currStreakNum=ccd6f6&sideNums=ccd6f6&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0" alt="GitHub streak" />
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mavhezha&bg_color=0a192f&color=64ffda&line=64ffda&point=ccd6f6&area=true&area_color=64ffda&hide_border=true" alt="Contribution graph" />
-
-</div>
-
 ---
 
 <div align="center">
