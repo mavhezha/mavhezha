@@ -147,6 +147,12 @@ Also working through HTB Academy's AI Red Teamer path — prompt injection, data
 
 </div>
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mavhezha&bg_color=0a192f&color=64ffda&line=64ffda&point=ccd6f6&area=true&area_color=64ffda&hide_border=true" alt="Contribution graph" />
+
+</div>
+
 ---
 
 <div align="center">
