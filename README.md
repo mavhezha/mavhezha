@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnold-mavhezha/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arnold_mavhezha)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@arnold_mavhezha)
-[![Portfolio](https://img.shields.io/badge/mavhezha.com-64FFDA?style=for-the-badge&logo=firefox&logoColor=black)](https://mavhezha.com)
+[![Portfolio](https://img.shields.io/badge/mavhezha.com-0A192F?style=for-the-badge&logo=firefox&logoColor=E8E6DC)](https://mavhezha.com)
 
 </div>
 
@@ -26,7 +26,7 @@ I build things as much as I break them. See [Breach The LLM](https://github.com/
 
 **An open source, self-hosted AI red-teaming range.** Attack a fictional bank's fraud-review AI assistant across 7 progressively harder levels, each one a real, calibrated prompt injection technique, not a scripted demo.
 
-[![Website](https://img.shields.io/badge/Website-breachthellm.com-64FFDA?style=for-the-badge)](https://breachthellm.com)
+[![Website](https://img.shields.io/badge/Website-breachthellm.com-0A192F?style=for-the-badge&logoColor=E8E6DC)](https://breachthellm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/breachthellm/breachthellm)
 
 - **7 levels, 7 distinct techniques**: direct injection, instruction override, indirect injection (two data sources), tool-use injection, and a hardened capstone that chains everything together
@@ -95,14 +95,14 @@ Completed HTB Academy's AI Red Teamer path, nine modules covering prompt injecti
 
 ## Certifications
 
-![CISSP](https://img.shields.io/badge/ISC2-CISSP-006400?style=flat-square&logoColor=white)
-![Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=flat-square&logo=comptia&logoColor=white)
-![ISC2 CC](https://img.shields.io/badge/ISC2-CC-006400?style=flat-square&logoColor=white)
-![CPTS](https://img.shields.io/badge/HTB-CPTS-9FEF00?style=flat-square&logoColor=black)
-![COAE](https://img.shields.io/badge/HTB-COAE-9FEF00?style=flat-square&logoColor=black)
-![ISO 27001](https://img.shields.io/badge/ISO-27001%20Lead%20Auditor-0072C6?style=flat-square&logoColor=white)
-![ISO 42001](https://img.shields.io/badge/ISO-42001%20Lead%20Auditor-0072C6?style=flat-square&logoColor=white)
-![OSCP](https://img.shields.io/badge/OSCP-In%20Progress-64FFDA?style=flat-square&logoColor=black)
+![CISSP](https://img.shields.io/badge/ISC2-CISSP-0A192F?style=flat-square&logoColor=E8E6DC)
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-0A192F?style=flat-square&logoColor=E8E6DC)
+![ISC2 CC](https://img.shields.io/badge/ISC2-CC-0A192F?style=flat-square&logoColor=E8E6DC)
+![CPTS](https://img.shields.io/badge/HTB-CPTS-0A192F?style=flat-square&logoColor=E8E6DC)
+![COAE](https://img.shields.io/badge/HTB-COAE-0A192F?style=flat-square&logoColor=E8E6DC)
+![ISO 27001](https://img.shields.io/badge/ISO-27001%20Lead%20Auditor-0A192F?style=flat-square&logoColor=E8E6DC)
+![ISO 42001](https://img.shields.io/badge/ISO-42001%20Lead%20Auditor-0A192F?style=flat-square&logoColor=E8E6DC)
+![OSCP](https://img.shields.io/badge/OSCP-In%20Progress-0A192F?style=flat-square&logoColor=E8E6DC)
 
 ---
 
@@ -110,51 +110,9 @@ Completed HTB Academy's AI Red Teamer path, nine modules covering prompt injecti
 
 **Offensive**
 
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4B8BBE?style=flat-square&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
-![evil-winrm](https://img.shields.io/badge/evil--winrm-cc0000?style=flat-square&logoColor=white)
-![Hashcat](https://img.shields.io/badge/Hashcat-black?style=flat-square&logoColor=white)
-![BloodHound](https://img.shields.io/badge/BloodHound-CC0000?style=flat-square&logoColor=white)
-![Impacket](https://img.shields.io/badge/Impacket-4B8BBE?style=flat-square&logoColor=white)
-![netexec](https://img.shields.io/badge/netexec-333333?style=flat-square&logoColor=white)
-
-**AI / LLM Red Teaming**
-
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
-![OWASP LLM Top 10](https://img.shields.io/badge/OWASP-LLM_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
-![MITRE ATLAS](https://img.shields.io/badge/MITRE-ATLAS-A51931?style=flat-square&logoColor=white)
-
-**Forensics & Detection**
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Volatility](https://img.shields.io/badge/Volatility-555555?style=flat-square&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![WinPEAS](https://img.shields.io/badge/WinPEAS-red?style=flat-square&logoColor=white)
-
-**Languages & Scripting**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-
-**Cloud & Governance**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![ISO 27001](https://img.shields.io/badge/ISO_27001-0072C6?style=flat-square&logoColor=white)
-![NIST](https://img.shields.io/badge/NIST_CSF-003087?style=flat-square&logoColor=white)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mavhezha&hide_border=true&background=0a192f&stroke=233554&ring=64ffda&fire=64ffda&currStreakNum=ccd6f6&sideNums=ccd6f6&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0" alt="GitHub streak" />
-
----
-
-<div align="center">
-<sub>mavhezha.com &nbsp;|&nbsp; Reconstructing Real Attacks. Building New Ones.</sub>
-</div>
+![Kali](https://img.shields.io/badge/Kali_Linux-0A192F?style=flat-square&logoColor=E8E6DC)
+![Nmap](https://img.shields.io/badge/Nmap-0A192F?style=flat-square&logoColor=E8E6DC)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0A192F?style=flat-square&logoColor=E8E6DC)
+![Metasploit](https://img.shields.io/badge/Metasploit-0A192F?style=flat-square&logoColor=E8E6DC)
+![evil-winrm](https://img.shields.io/badge/evil--winrm-0A192F?style=flat-square&logoColor=E8E6DC)
+![Hashcat](https://img.shields.io/badge/Hashc
