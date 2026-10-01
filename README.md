@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnold-mavhezha/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arnold_mavhezha)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@arnold_mavhezha)
-[![Portfolio](https://img.shields.io/badge/mavhezha.com-0A192F?style=for-the-badge&logo=firefox&logoColor=E8E6DC)](https://mavhezha.com)
+[![Portfolio](https://img.shields.io/badge/mavhezha.com-1F7A5C?style=for-the-badge&logo=firefox&logoColor=E8E6DC)](https://mavhezha.com)
 
 </div>
 
@@ -26,7 +26,7 @@ I build things as much as I break them. See [Breach The LLM](https://github.com/
 
 **An open source, self-hosted AI red-teaming range.** Attack a fictional bank's fraud-review AI assistant across 7 progressively harder levels, each one a real, calibrated prompt injection technique, not a scripted demo.
 
-[![Website](https://img.shields.io/badge/Website-breachthellm.com-0A192F?style=for-the-badge&logoColor=E8E6DC)](https://breachthellm.com)
+[![Website](https://img.shields.io/badge/Website-breachthellm.com-1F7A5C?style=for-the-badge&logoColor=E8E6DC)](https://breachthellm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/breachthellm/breachthellm)
 
 - **7 levels, 7 distinct techniques**: direct injection, instruction override, indirect injection (two data sources), tool-use injection, and a hardened capstone that chains everything together
@@ -102,7 +102,7 @@ Completed HTB Academy's AI Red Teamer path, nine modules covering prompt injecti
 ![COAE](https://img.shields.io/badge/HTB-COAE-0A192F?style=flat-square&logoColor=E8E6DC)
 ![ISO 27001](https://img.shields.io/badge/ISO-27001%20Lead%20Auditor-0A192F?style=flat-square&logoColor=E8E6DC)
 ![ISO 42001](https://img.shields.io/badge/ISO-42001%20Lead%20Auditor-0A192F?style=flat-square&logoColor=E8E6DC)
-![OSCP](https://img.shields.io/badge/OSCP-In%20Progress-0A192F?style=flat-square&logoColor=E8E6DC)
+![OSCP](https://img.shields.io/badge/OSCP-In%20Progress-1F7A5C?style=flat-square&logoColor=E8E6DC)
 
 ---
 
@@ -122,9 +122,9 @@ Completed HTB Academy's AI Red Teamer path, nine modules covering prompt injecti
 
 **AI / LLM Red Teaming**
 
-![Ollama](https://img.shields.io/badge/Ollama-0A192F?style=flat-square&logoColor=E8E6DC)
-![OWASP LLM Top 10](https://img.shields.io/badge/OWASP-LLM_Top_10-0A192F?style=flat-square&logoColor=E8E6DC)
-![MITRE ATLAS](https://img.shields.io/badge/MITRE-ATLAS-0A192F?style=flat-square&logoColor=E8E6DC)
+![Ollama](https://img.shields.io/badge/Ollama-1F7A5C?style=flat-square&logoColor=E8E6DC)
+![OWASP LLM Top 10](https://img.shields.io/badge/OWASP-LLM_Top_10-1F7A5C?style=flat-square&logoColor=E8E6DC)
+![MITRE ATLAS](https://img.shields.io/badge/MITRE-ATLAS-1F7A5C?style=flat-square&logoColor=E8E6DC)
 
 **Forensics & Detection**
 
@@ -151,7 +151,7 @@ Completed HTB Academy's AI Red Teamer path, nine modules covering prompt injecti
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mavhezha&hide_border=true&background=0A192F&stroke=233554&ring=E8E6DC&fire=E8E6DC&currStreakNum=E8E6DC&sideNums=E8E6DC&currStreakLabel=E8E6DC&sideLabels=8892b0&dates=8892b0" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mavhezha&hide_border=true&background=0A192F&stroke=1F7A5C&ring=63C9A0&fire=63C9A0&currStreakNum=E8E6DC&sideNums=E8E6DC&currStreakLabel=63C9A0&sideLabels=63C9A0&dates=8892b0" alt="GitHub streak" />
 
 ---
 
