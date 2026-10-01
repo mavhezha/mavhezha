@@ -115,4 +115,46 @@ Completed HTB Academy's AI Red Teamer path, nine modules covering prompt injecti
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0A192F?style=flat-square&logoColor=E8E6DC)
 ![Metasploit](https://img.shields.io/badge/Metasploit-0A192F?style=flat-square&logoColor=E8E6DC)
 ![evil-winrm](https://img.shields.io/badge/evil--winrm-0A192F?style=flat-square&logoColor=E8E6DC)
-![Hashcat](https://img.shields.io/badge/Hashc
+![Hashcat](https://img.shields.io/badge/Hashcat-0A192F?style=flat-square&logoColor=E8E6DC)
+![BloodHound](https://img.shields.io/badge/BloodHound-0A192F?style=flat-square&logoColor=E8E6DC)
+![Impacket](https://img.shields.io/badge/Impacket-0A192F?style=flat-square&logoColor=E8E6DC)
+![netexec](https://img.shields.io/badge/netexec-0A192F?style=flat-square&logoColor=E8E6DC)
+
+**AI / LLM Red Teaming**
+
+![Ollama](https://img.shields.io/badge/Ollama-0A192F?style=flat-square&logoColor=E8E6DC)
+![OWASP LLM Top 10](https://img.shields.io/badge/OWASP-LLM_Top_10-0A192F?style=flat-square&logoColor=E8E6DC)
+![MITRE ATLAS](https://img.shields.io/badge/MITRE-ATLAS-0A192F?style=flat-square&logoColor=E8E6DC)
+
+**Forensics & Detection**
+
+![Wireshark](https://img.shields.io/badge/Wireshark-0A192F?style=flat-square&logoColor=E8E6DC)
+![Volatility](https://img.shields.io/badge/Volatility-0A192F?style=flat-square&logoColor=E8E6DC)
+![Splunk](https://img.shields.io/badge/Splunk-0A192F?style=flat-square&logoColor=E8E6DC)
+![WinPEAS](https://img.shields.io/badge/WinPEAS-0A192F?style=flat-square&logoColor=E8E6DC)
+
+**Languages & Scripting**
+
+![Python](https://img.shields.io/badge/Python-0A192F?style=flat-square&logoColor=E8E6DC)
+![Bash](https://img.shields.io/badge/Bash-0A192F?style=flat-square&logoColor=E8E6DC)
+![PowerShell](https://img.shields.io/badge/PowerShell-0A192F?style=flat-square&logoColor=E8E6DC)
+
+**Cloud & Governance**
+
+![AWS](https://img.shields.io/badge/AWS-0A192F?style=flat-square&logoColor=E8E6DC)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-0A192F?style=flat-square&logoColor=E8E6DC)
+![NIST](https://img.shields.io/badge/NIST_CSF-0A192F?style=flat-square&logoColor=E8E6DC)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mavhezha&hide_border=true&background=0A192F&stroke=233554&ring=E8E6DC&fire=E8E6DC&currStreakNum=E8E6DC&sideNums=E8E6DC&currStreakLabel=E8E6DC&sideLabels=8892b0&dates=8892b0" alt="GitHub streak" />
+
+---
+
+<div align="center">
+<sub>mavhezha.com &nbsp;|&nbsp; Reconstructing Real Attacks. Building New Ones.</sub>
+</div>
