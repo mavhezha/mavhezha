@@ -45,12 +45,12 @@ I build things as much as I break them. See [Breach The LLM](https://github.com/
 |---|---|---|---|
 | **Forest** | Easy | RPC null session, AS-REP Roasting, BloodHound, WriteDACL, DCSync | [Read](https://mavhezha.com/blog/htb-forest-writeup) |
 | **Sauna** | Easy | Web OSINT, AS-REP Roasting, AutoLogon, DCSync, Pass-the-Hash | [Read](https://mavhezha.com/blog/htb-sauna-writeup) |
-| **Active** | Easy | GPP credentials, Kerberoasting, psexec | [Read](https://github.com/mavhezha/oscp-journey/tree/master/htb-writeups/Active) |
-| **Support** | Easy | LDAP enum, .NET reverse engineering, GenericAll, RBCD | [Read](https://github.com/mavhezha/oscp-journey/tree/master/htb-writeups/Support) |
-| **Timelapse** | Easy | SMB enum, PFX cert auth, PowerShell history, LAPS | [Read](https://github.com/mavhezha/oscp-journey/tree/master/htb-writeups/Timelapse) |
-| **Return** | Easy | Printer credential capture, Server Operators, service binary hijack | [Read](https://github.com/mavhezha/oscp-journey/tree/master/htb-writeups/Return) |
-| **Heist** | Easy | Cisco password cracking, RID brute force, Firefox memory dump | [Read](https://github.com/mavhezha/oscp-journey/tree/master/htb-writeups/Heist) |
-| **Cicada** | Easy | SMB enum, RID cycling, credential reuse, SeBackupPrivilege | [Read](https://github.com/mavhezha/oscp-journey/tree/master/htb-writeups/Cicada) |
+| **Active** | Easy | GPP credentials, Kerberoasting, psexec | [Read](https://mavhezha.com/blog/htb-active-writeup) |
+| **Support** | Easy | LDAP enum, .NET reverse engineering, GenericAll, RBCD | [Read](https://mavhezha.com/blog/htb-support-writeup) |
+| **Timelapse** | Easy | SMB enum, PFX cert auth, PowerShell history, LAPS | [Read](https://mavhezha.com/blog/htb-timelapse-writeup) |
+| **Return** | Easy | Printer credential capture, Server Operators, service binary hijack | [Read](https://mavhezha.com/blog/htb-return-writeup) |
+| **Heist** | Easy | Cisco password cracking, RID brute force, Firefox memory dump | [Read](https://mavhezha.com/blog/htb-heist-writeup) |
+| **Cicada** | Easy | SMB enum, RID cycling, credential reuse, SeBackupPrivilege | [Read](https://mavhezha.com/blog/htb-cicada-writeup) |
 | **Access** | Easy | ACCDB credential extraction, saved RDP creds, runas SavedCreds | [Read](https://mavhezha.com/blog/htb-access-writeup) |
 
 ### Linux
@@ -80,13 +80,14 @@ Technical write-ups at **[mavhezha.com/blog](https://mavhezha.com/blog)**
 | 05 | Malware Triage | PE analysis, VBA macros, YARA-style detection |
 | 06 | Incident Timeline | Full breach reconstruction, MITRE ATT&CK mapping |
 
-Also working through HTB Academy's AI Red Teamer path — prompt injection, data poisoning, and adversarial evasion against LLMs and ML models.
+Completed HTB Academy's AI Red Teamer path, nine modules covering prompt injection, LLM output attacks, AI data attacks, adversarial evasion, and attacking AI applications and MCP systems.
 
 ---
 
 ## Speaking & Leadership
 
 - **VP, ISACA Yeshiva University chapter**
+- **Hack The Box Host**, Founder/Organizer, HTB New York Meetup
 - **Speaker, DigiSkills 2.0 Bootcamp** (July 2026)
 - **Public Relations Director, JCI Capital Zimbabwe**
 
@@ -97,7 +98,8 @@ Also working through HTB Academy's AI Red Teamer path — prompt injection, data
 ![CISSP](https://img.shields.io/badge/ISC2-CISSP-006400?style=flat-square&logoColor=white)
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=flat-square&logo=comptia&logoColor=white)
 ![ISC2 CC](https://img.shields.io/badge/ISC2-CC-006400?style=flat-square&logoColor=white)
-![CCSK](https://img.shields.io/badge/CSA-CCSK-4B0082?style=flat-square&logoColor=white)
+![CPTS](https://img.shields.io/badge/HTB-CPTS-9FEF00?style=flat-square&logoColor=black)
+![COAE](https://img.shields.io/badge/HTB-COAE-9FEF00?style=flat-square&logoColor=black)
 ![ISO 27001](https://img.shields.io/badge/ISO-27001%20Lead%20Auditor-0072C6?style=flat-square&logoColor=white)
 ![ISO 42001](https://img.shields.io/badge/ISO-42001%20Lead%20Auditor-0072C6?style=flat-square&logoColor=white)
 ![OSCP](https://img.shields.io/badge/OSCP-In%20Progress-64FFDA?style=flat-square&logoColor=black)
@@ -117,6 +119,12 @@ Also working through HTB Academy's AI Red Teamer path — prompt injection, data
 ![BloodHound](https://img.shields.io/badge/BloodHound-CC0000?style=flat-square&logoColor=white)
 ![Impacket](https://img.shields.io/badge/Impacket-4B8BBE?style=flat-square&logoColor=white)
 ![netexec](https://img.shields.io/badge/netexec-333333?style=flat-square&logoColor=white)
+
+**AI / LLM Red Teaming**
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+![OWASP LLM Top 10](https://img.shields.io/badge/OWASP-LLM_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
+![MITRE ATLAS](https://img.shields.io/badge/MITRE-ATLAS-A51931?style=flat-square&logoColor=white)
 
 **Forensics & Detection**
 
